@@ -191,11 +191,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "esbuild-resolution-mounted-volume@workspace:."
   dependencies:
-    esbuild: "npm:latest"
+    esbuild: "npm:^0.27.4"
   languageName: unknown
   linkType: soft
 
-"esbuild@npm:latest":
+"esbuild@npm:^0.27.4":
   version: 0.27.4
   resolution: "esbuild@npm:0.27.4"
   dependencies:

@@ -1,1 +1,2 @@
-import './mount-root/foo.js';
+// Imports /src/node_modules/foo.js
+import 'foo';
